@@ -62,27 +62,26 @@ Aquí algunos ejemplos de las gráficas generadas:
 
 ### 1️⃣ **Top 5 Artistas Más Escuchados**
 ```md
-![Top 5 Artistas](ruta/a/imagen1.png)
+![image](https://github.com/user-attachments/assets/307c3cf7-7a4c-4555-af4e-ea55608d29b8)
+
 ```
 
 ### 2️⃣ **Distribución de Canciones Más Escuchadas**
 ```md
-![Top 5 Canciones](ruta/a/imagen2.png)
+![image](https://github.com/user-attachments/assets/92c4d6c3-1b5d-4218-ad91-9884abdf74ed)
+
 ```
 
-### 3️⃣ **Heatmap de Actividad por Día y Hora**
+### 3️⃣ **Métricas Generales de Minutos escuchados, canciones escuchadas y Artistas escuchados**
 ```md
-![Heatmap](ruta/a/imagen3.png)
+![image](https://github.com/user-attachments/assets/5b577025-0b38-4e88-aecb-ef8bdc404868)
+
 ```
 
 ---
 
 ## 🔥 Contribuciones y mejoras
 Si tienes ideas para mejorar el análisis (por ejemplo, agregar más métricas o mejorar las visualizaciones), ¡siéntete libre de hacer un **pull request**! 💡
-
-Si te gustó el proyecto, no olvides darle ⭐ en **GitHub**.
-
----
 
 ## 📜 Licencia
 Este proyecto es de uso personal y educativo. Puedes modificarlo y adaptarlo según tus necesidades. 😊
