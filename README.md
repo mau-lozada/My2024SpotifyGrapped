@@ -1,4 +1,4 @@
-Spotify Wrapped Personalizado 🎵📊
+## Spotify Wrapped Personalizado 🎵📊
 
 Este proyecto es un análisis personalizado de mis hábitos de escucha en Spotify, utilizando la API de Spotify y la librería spotipy. A través de este script, genero visualizaciones interactivas que muestran datos como:
 
@@ -14,7 +14,7 @@ Este proyecto es un análisis personalizado de mis hábitos de escucha en Spotif
 
 Las gráficas fueron generadas con Altair y Matplotlib para un diseño más atractivo y fácil de interpretar. 🚀
 
-📦 Instalación y configuración
+## Instalación y configuración
 
 Para ejecutar este análisis en tu entorno local, sigue estos pasos:
 
